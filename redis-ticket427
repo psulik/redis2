@@ -1,0 +1,11 @@
+{
+  "deploy" : {
+    "app_name" : {
+      "redis": {
+        "host" : "ticket427-001.5cpur5.0001.euw1.cache.amazonaws.com",
+        "port" : "6379",
+        "password" : "strongPassword"
+      }
+    }
+  }
+}
